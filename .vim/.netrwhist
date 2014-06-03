@@ -1,9 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
-let g:netrw_dirhist_1='/Users/funami/src/planbcd-gp-log/sample-site/source'
-let g:netrw_dirhist_2='/Users/funami/src/planbcd-gp-log/sample-site/source/layouts'
-let g:netrw_dirhist_3='/Users/funami/src/planbcd-gp-log/sample-site/source'
-let g:netrw_dirhist_4='/Users/funami/src/planbcd-gp-log/sample-site/source/layouts'
-let g:netrw_dirhist_5='/Users/funami/src/planbcd-distjs/grunt/config'
-let g:netrw_dirhist_6='/opt/boxen/rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/rspec-core-3.0.0/lib/rspec'
-let g:netrw_dirhist_7='/opt/boxen/rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/rspec-core-3.0.0/lib/rspec/core'
